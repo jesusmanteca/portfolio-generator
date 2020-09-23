@@ -22,3 +22,17 @@ Ingredients:
     Roast in the oven for 40 to 60 minutes, until they are golden brown and crispy on the outside and soft on the inside.
 
     To serve, these can be drizzled with delicious tahini dressing and sprinkle with parsley as a side, smeared on hot bread as a snack or appetizer, used to make Norma pasta, or turned in a sabich sandwich or placed on tahini toast.
+
+    Get: 
+        Bread
+        Green Cabbage
+        Tomatoes
+
+    Warm up beans
+    Warm up sauce
+
+    Cut veggies (also avocado)
+
+    Toast Buns
+
+    Serve.
