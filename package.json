@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Ingredients:      1 large eggplant, top removed and cut into slices the long way (top to bottom)     sea salt     3 tbsp olive oil     1 tsp garlic powder     1 tsp paprika",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusmanteca/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesusmanteca/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/jesusmanteca/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
